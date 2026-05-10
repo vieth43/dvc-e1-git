@@ -104,7 +104,7 @@ public class Eurorechner {
      * @throws IOException Wenn beim Starten des Programms ein Fehler auftritt
      */
     public static void main(String[] args) throws IOException {
-        Eurorechner rechner = new Eurorechner(1.1); // Beispielkurs: 1 Euro = 1.1 Dollar
+        Eurorechner rechner = new Eurorechner(1.8); // Beispielkurs: 1 Euro = 1.1 Dollar
         rechner.start();
     }
 }
