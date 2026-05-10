@@ -1,1 +1,0 @@
-Diese Datei wird mit git rm geloescht 
